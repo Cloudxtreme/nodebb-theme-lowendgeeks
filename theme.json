@@ -1,0 +1,9 @@
+{
+    "id": "nodebb-theme-lowendgeeks",
+    "name": "LowEndGeeks Theme for NodeBB",
+    "description": "Theme used on lowendgeeks.com - based on nodebb-theme-lavender. Please customise before using on your site",
+    "url": "https://www.github.com/psychobunny/nodebb-theme-lowendgeeks",
+    "screenshot": null,
+    "templates": "templates",
+    "staticDir": "static"
+}
